@@ -1,0 +1,18 @@
+.boddy{
+      font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    color: white;
+    margin: auto;
+}
+
+.inp{
+  width: 200px;
+  border: 0.1px solid ;
+}
+.buttn{
+  color: white;
+  background-color: green;
+}
